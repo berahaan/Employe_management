@@ -1,5 +1,13 @@
-In this project, I utilized the Mern stack to allow the administrator (assigned as HR) to edit, delete, update, and 
-view basic employee records. The system also includes a robust authentication mechanism to track user visits.
-first i have prepared a registration page s when a users can registers based on role then log in and access the pages ,the systems also
-have robust mechanism to track a user session  I have also prepared role other than Hr like manager,normaluser for testing purpose only and only User with Hr role can 
-edit ,delete,updates and see the information of employees thats all .
+Employee Management System
+This project implements a comprehensive Employee Management System using the MERN stack (MongoDB, Express, React, Node.js) with authentication and role-based access control.
+Features
+CRUD Operations: Allows HR administrators to Create, Read, Update, and Delete employee records.
+Role-based Access Control: Users register with specific roles (HR, Manager, Normal User) and access corresponding functionalities upon login.
+Authentication and Session Management: Secure authentication mechanisms and session management ensure user data protection and restrict unauthorized access.
+Usage
+Registration and Login:
+Users register with designated roles (HR, Manager, Normal User).
+Authentication ensures only registered users can access the system.
+Role-specific Access:
+HR users have exclusive privileges to manage employee data.
+Managers and Normal Users have restricted functionalities for testing purposes.
