@@ -68,3 +68,18 @@ Setu up instructions
 got clone https://github.com/berahaan/Employe_management
 ```
 2.navigate to directory 
+```bash
+cd Backend
+cd Frontend 
+```
+3.install dependecy 
+```bash
+npm install
+```
+4.run development servers
+```bash
+npm run dev
+npm start
+```
+5.Access the project
+
