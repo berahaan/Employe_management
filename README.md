@@ -28,8 +28,6 @@ Backend: Express.js (Node.js)
 
 Database: MongoDB
 
-State Management: Redux
-
 Session Management: Express-Session
 
 🛠️ Backend Powered by Express.js
