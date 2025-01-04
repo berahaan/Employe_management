@@ -65,7 +65,7 @@ Setu up instructions
 
 1.clone repository here 
 ```bash
-got clone https://github.com/berahaan/Employe_management
+git clone https://github.com/berahaan/Employe_management
 ```
 2.navigate to directory 
 ```bash
